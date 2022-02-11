@@ -1,0 +1,31 @@
+body {
+  color: #703920;
+  background-color:#f5f0d1;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  h1 {
+    color: #250000;
+    background-color: #927859;
+    
+    text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto
+    }
+  nav{
+    text-align: center;
+  }
+  button {
+    border: 3px solid #927859;
+    background: #f5f0d1; 
+    width: auto;
+    box-shadow: 2px 2px 5px 1px #000;
+    text-align: center}
+
+
+footer {
+  background-color: #efe8c9;
+  text-align: center
+  }
